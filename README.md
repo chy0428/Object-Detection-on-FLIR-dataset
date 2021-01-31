@@ -17,3 +17,6 @@ FLIR dataset (열화상 이미지)에 대한 정보가 thermal_annotation.json�
 2 0.162500 0.457031 0.075000 0.054688
 2 0.223438 0.460938 0.043750 0.066406
 ```
+
+
+https://github.com/chy0428/Yolo_flir.git
